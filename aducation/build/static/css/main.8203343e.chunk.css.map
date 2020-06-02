@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACI,YACJ,CACA,QACI,UAAc,CACd,cACJ,CACA,QACI,iBAAkB,CAClB,UACJ","file":"main.8203343e.chunk.css","sourcesContent":[".head{\r\n    display: flex;\r\n}\r\n.head-l{\r\n    color: #ffffff;\r\n    font-size: 26px;\r\n}\r\n.head-r{\r\n    position: absolute;\r\n    right: 50px;\r\n}"]}

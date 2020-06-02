@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+}
+.head-l{
+    color: #ffffff;
+    font-size: 26px;
+}
+.head-r{
+    position: absolute;
+    right: 50px;
+}
