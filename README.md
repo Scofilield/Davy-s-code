@@ -1,8 +1,8 @@
 # Davy-s-code
 this is my code！
 
-This project is a single-page project with separate front and back ends. 
-The front end uses Express for the back end and MySQL for the database.
+The project is a single-page project with independent front-end and back-end.
+The front end uses React, the back end uses Express, and the database is MySQL.
 Use Ant.design UI component library
 
 I did not upload the dependency file, I can download the dependency by myself and configure the local database before running
